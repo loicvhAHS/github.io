@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+}
+
+p {
+  font-family: verdana;
+  font-size: 18px;
+  text-align: center;
+}
+
+ul {
+  
+  list-style-type: none;
+  margin: 50;
+  text-align: center;
+  padding: 50;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Game Mechanics</h1>
+<p>Minecraft is a multiplayer survival game 
+  where the worlds are made out of blocks your 
+  goal is to find items so you can craft stronger 
+  weapons and armor so you can defeat the final 
+  boss which is the ender dragon. The game is easy 
+  to play and anyone at any age can get started with 
+  playing it, they make the game more challenging by 
+  having mobs spawn during the night and you must 
+  either slay them or build a house that can protect 
+  you from them. The ESRB rating for Minecraft is E 
+  for everyone.
+
+	The main way you get better at Minecraft is through 
+  trial and error and just exploring all the different 
+  things the game has to offer. Some specific strategies 
+  I have are to build a simple house early in the game so 
+  you have a safe place for when night arrives, another 
+  tip I have is to try and find a cave early on because 
+  they tend to have a lot of useful supplies you will need 
+  in the game. Minecraft is a very easy game to start 
+  playing because all the main mechanics and the main 
+  idea of the game are very simple.</p>
+
+</body>
+<ul>
+  
+  <li><a href="index.asp">index</a></li>
+  <li><a href="Blog.asp">Blog</a></li>
+</ul>
+<a target="_blank" href="minecraft-1639513933156.jpg">
+    <img src="minecraft-1639513933156.jpg" alt="minecraft" width="600" height="400">
+  </a>
+
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+}
+
+p {
+  font-family: verdana;
+  font-size: 18px;
+  text-align: center;
+}
+
+ul {
+  
+  list-style-type: none;
+  margin: 50;
+  text-align: center;
+  padding: 50;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Minecraft</h1>
+<p>
+</body>
+<ul>
+  
+  <li><a href="index.asp">index</a></li>
+  <li><a href="Blog.asp">Blog</a></li>
+</ul>
+
+
+</html>
