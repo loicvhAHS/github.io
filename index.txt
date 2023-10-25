@@ -32,7 +32,15 @@ ul {
 <body>
 
 <h1>Minecraft</h1>
-<p>
+<p> Virtual Reality has come a long way since it was first 
+introduced, Mark Zuckerberg calls the virtual world the metaverse 
+and he has invested a lot of money into it. There have also been 
+a lot more companies starting to sell their own VR headsets such as 
+apple.
+
+I believe that naturally virtual reality will get bigger and more popular 
+as it advances through the years but, I believe it will be a while before 
+it becomes typical to own a VR headset.
 </body>
 <ul>
   
